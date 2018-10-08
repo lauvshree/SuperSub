@@ -1,6 +1,6 @@
 public class PolyMorphismTrial {
     public static void main(String[] s) {
-
+        // Our three humans with different languages
         Human h1,h2,h3;
 
         h1 = new Australian();
